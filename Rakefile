@@ -16,7 +16,7 @@ end
 task :build => ["index.html", "style.css"]
 
 task :clean do
-  sh "rm index.html style.css"
+  sh "rm *.html *.css"
 end
 
 task :upload do
