@@ -1,0 +1,97 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,700);
+
+body {
+  font-family: "Palatino", serif;
+  font-size: 18px;
+  background-color: #FFFEE6;
+}
+
+$twoColumnWidth: 900px;
+
+.container {
+  @media (min-width: $twoColumnWidth) {
+    width: 800px;
+    margin: 30px auto;
+  }
+  @media (max-width: ($twoColumnWidth - 1px)) {
+    margin: 30px 10px;
+  }
+}
+
+h1, h2, h3, h4, h5, h6, b, strong {
+  color: #3C351A;
+  color: desaturate(lighten(#b20e0e,20%), 50%);
+}
+
+a {
+  color: #324B72;
+  font-weight: bold;
+
+  &:hover {
+    color: #416B95;
+  }
+}
+
+h1 {
+  @media (min-width: $twoColumnWidth) {
+    margin-bottom: 40px;
+    padding-left: 200px;
+  }
+}
+
+h2 {
+  font-family: 'Open Sans', sans;
+  text-transform: uppercase;
+
+  @media (max-width: ($twoColumnWidth - 1px)) {
+    margin-top: 40px;
+    font-size: 24px;
+  }
+
+  @media (min-width: $twoColumnWidth) {
+    font-size: 18px;
+    line-height: 18px;
+    letter-spacing: .1em;
+    width: 180px;
+    margin: 0;
+
+    &+p, &+ul {
+      margin-top: -18px;
+    }
+
+    p+&, ul+& {
+      margin-top: 40px;
+    }
+  }
+}
+
+@media (min-width: $twoColumnWidth) {
+  p, ul {
+    margin-left: 200px;
+  }
+
+  li > ul {
+    margin-left: 0;
+  }
+}
+
+ul {
+  list-style: none;
+  padding-left: 0;
+
+  li {
+    margin-bottom: 5px;
+  }
+}
+
+li > ul {
+  padding-left: 20px;
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
+
+span.amp {
+  font-family: "Palatino", "Book Antiqua", serif;
+  font-size:110%;
+  font-style:italic;
+}
