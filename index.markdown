@@ -77,7 +77,7 @@ I've also spoken at a few Ruby and Rails conferences:
 Background
 ----------
 
-I am from Scotland, and now live in London.
+I am from Scotland, lived and worked London for eight years, and am now living in Austin, Texas.
 
 I've been using [Ruby][] since 2002, which is a relatively long time. I love using Ruby but I try and keep my eyes open for whatever else might come along in the future.
 
