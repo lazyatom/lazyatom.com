@@ -7,7 +7,7 @@ About me
 
 I try to solve problems using simple solutions, often with software.
 
-I work as part of [Go Free Range][].
+I run [Exciting][], a digital product development and prototyping studio.
 
 I write and blog at [interblah.net][].
 
@@ -41,6 +41,7 @@ Projects
 --------
 
 * **Social**
+  - [Exciting][], the digital product development and prototyping studio I run.
   - [Go Free Range][], the software company I co-founded to explore better ways of working.
   - [Ruby Manor][], an attempt to steer conferences away from bloat and cargo-culting.
 * **Software**
@@ -81,12 +82,13 @@ I am from Scotland, lived and worked London for eight years, and am now living i
 
 I've been using [Ruby][] since 2002, which is a relatively long time. I love using Ruby but I try and keep my eyes open for whatever else might come along in the future.
 
-I am very interested in exploring the emergent behaviour of simple systems. My [PhD thesis][] explored this within the context of simulated multi-agent systems, but projects like Go Free Range and Ruby Manor can also be interpreted as explorations of the simplest systems that may yield valuable behaviour and structure.
+I am very interested in exploring the emergent behaviour of simple systems. My [PhD thesis][] explored this within the context of simulated multi-agent systems, but projects like [Go Free Range][] and [Ruby Manor][] can also be interpreted as explorations of the simplest systems that may yield valuable behaviour and structure.
 
 
 [@lazyatom]: http://twitter.com/lazyatom
 [interblah.net]: http://interblah.net
 
+[Exciting]: http://exciting.io
 [Go Free Range]: http://gofreerange.com
 [GitHub]: http://github.com/lazyatom
 [Harmonia]: https://harmonia.io
