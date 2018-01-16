@@ -113,6 +113,11 @@
   video: https://skillsmatter.com/skillscasts/1877-an-exploration-of-why-nobody-needs-to-write-any-more-test-frameworks
   lanyrd: http://lanyrd.com/2011/lrug-feb-2011/scdrh/
 
+- event: IoT London
+  date: 2012-04-19
+  title: An open-source distributed platform for IoT printers
+  slides: https://speakerdeck.com/lazyatom/iot-printer
+
 - event: Austin on Rails
   date: 2014-02-26
   title: Deploying Rails with Docker
