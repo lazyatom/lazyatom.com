@@ -2,6 +2,7 @@
 - event: Canada on Rails
   date: 2006-04-14
   title: 'Engines: Team Development with Rails'
+  lanyrd: http://lanyrd.com/2006/canada-on-rails/scczpb
   slides: http://lazyatom.com/presentations/yvr06.pdf
   synopsis: |-
     Rails Engines provide a means to share common functionality across many projects, in a package that's easy to both update *and* override.
@@ -11,6 +12,7 @@
 - event: AjaxWorld 2006
   date: 2006-10-03
   title: Plugging into Rails
+  lanyrd: http://lanyrd.com/2006/ajaxworld/scczpc
   synopsis: |-
     One of the most powerful aspects of Rails is the ease with which new functionality can be added, and existing behaviours modified to suit the needs of any project. Plugins are a controlled mechanism for working with such enhancements, making it easy to share them between your projects, and with other developers in the community.
 
@@ -19,6 +21,7 @@
 - event: QCon London 2007
   date: 2007-03-16
   title: Extending Rails with Plugins
+  lanyrd: http://lanyrd.com/2007/qcon-london/scczpd
   slides: http://qconlondon.com/london-2007/file?path=/QCon2007/slides/JamesAdam_RailsPlugins.pdf
   synopsis: |-
     One of the most important and useful aspects of the Rails framework is it's ability to be extended using plugins. Thanks to the flexibility and power of Ruby, almost any aspect of Rails can be altered to suit the needs of a particular application.
@@ -30,9 +33,7 @@
 - event: RailsConf 2007
   date: 2007-05-19
   title: The Dark Art of Developing Plugins
-  slides: url
-  video: url
-  coverage: array
+  lanyrd: http://lanyrd.com/2007/railsconf/scczmz
   synopsis: |-
     Plugins are more than just shiny nuggets of code which rain down from the higher echelons of the Rails pantheon; they are loyal and useful servants that anyone can employ to help reuse code between applications. Without a little guidance, however, the process of figuring out just how to tame these beasts can be overwhelming.
 
@@ -43,6 +44,9 @@
 - event: Ruby Fools
   date: 2008-04-03
   title: The Dark Art of Developing Plugins
+  lanyrd:
+    - http://lanyrd.com/2008/ruby-fools-oslo/scczpg
+    - http://lanyrd.com/2008/ruby-fools-copenhagen/scczpf
   slides: http://jaoo.dk/dl/jaoo-ruby-oslo-2008/slides/RubyFools%20Presentation%20(Oslo%20revision).pdf
   synopsis: |-
     Plugins are more than just shiny nuggets of code which rain down from the higher echelons of the Rails pantheon; they are loyal and useful servants that anyone can employ to help reuse code between applications. Without a little guidance, however, the process of figuring out just how to tame these beasts can be overwhelming.
@@ -54,6 +58,7 @@
 - event: "@media 2008"
   date: 2008-05-30
   title: Rails + Django
+  lanyrd: http://lanyrd.com/2008/atmedia/scczpm/
   synopsis: |-
     In a rapidly growing, increasingly complex web world, the framework is firmly establishing itself as a powerful tool in the clever developer’s tool belt.
 
@@ -80,6 +85,7 @@
   date: 2009-05-05
   title: The Even Darker Art of Rails Engines
   slides: http://assets.en.oreilly.com/1/event/24/The%20Even-Darker%20Art%20of%20Rails%20Engines%20Presentation.pdf
+  lanyrd: http://lanyrd.com/2009/railsconf/scgkh/
   synposis: |-
     When I started talking about the idea of ‘Rails Engines’ a few years ago, everyone thought I was crazy. Some people said it was stupid, or just plain evil. Despite that, the ability to write simple yet powerful plugins is baked into the core of Rails 2.3.
 
@@ -92,10 +98,11 @@
     - https://twitter.com/pengwynn/status/1708263388
 
 - event: 'Ruby Manor 2: Manor Harder'
-  title: Gem That
   date: 2009-12-12
+  title: Gem That
   slides: http://public.lazyatom.com/gem_that_with_notes.pdf
   video: http://rubymanor.org/harder/videos/gem_that/
+  lanyrd: http://lanyrd.com/2009/ruby-manor-2-manor-harder/scczy/
   coverage:
     - http://effectif.com/ruby/manor/gem-this
     - https://twitter.com/eightbitraptor/status/6597993714
@@ -104,6 +111,7 @@
   date: 2011-02-07
   title: An exploration of why nobody needs to write any more test frameworks
   video: https://skillsmatter.com/skillscasts/1877-an-exploration-of-why-nobody-needs-to-write-any-more-test-frameworks
+  lanyrd: http://lanyrd.com/2011/lrug-feb-2011/scdrh/
 
 - event: Austin on Rails
   date: 2014-02-26
@@ -113,10 +121,11 @@
     - https://twitter.com/austinonrails/status/438487838292578304
 
 - event: RubyConf 2015
-  date: 2015-11
+  date: 2015-11-01
   title: Why is nobody using Refinements?
   slides: https://speakerdeck.com/lazyatom/why-is-nobody-using-refinements
   video: https://www.youtube.com/watch?v=qXC9Gk4dCEw
+  transcript: http://lazyatom.com/refinements
   synopsis: |-
     Refinements have been a feature in Ruby for several years now, added as a more structured alternative to the "scourge" of monkey patching, but it seems like almost nobody is using them. My question is this: why not? Are they a bad idea? Are they broken? Or do we just not understand them?
 

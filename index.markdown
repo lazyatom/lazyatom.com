@@ -62,17 +62,7 @@ I co-organise [Ruby Manor][], and also help run [LRUG][].
 
 I've also spoken at a few Ruby and Rails conferences:
 
-* _Ruby Manor 2: Manor Harder_ -- [Gem That][].
-* _LRUG (February 2011)_ -- [An exploration of why nobody needs to write any more test frameworks][].
-* _Rails Conf 2009_ -- [The Even-Darker Art of Rails Engines][].
-* _Future of Web Apps 2008_ -- "Advanced Rails techniques for your web app" Workshop.
-* _@media 2008_ -- [Rails + Django][].
-* _Ruby Fools 2008 (Oslo)_ -- [The Dark Art of Developing Plugins][rubyfools-oslo].
-* _Ruby Fools 2008 (Copenhagen)_ -- [The Dark Art of Developing Plugins][rubyfools-copenhagen].
-* _Rails Conf 2007_ -- [The Dark Art of Developing Plugins][].
-* _QCon 2007_ -- [Extending Rails with Plugins][].
-* _AjaxWorld 2006_ -- [Plugging into Rails][].
-* _Canada on Rails 2006_ -- [Engines: Team Development with Rails][].
+PRESENTATIONS_INSERT
 
 
 Background
@@ -100,17 +90,6 @@ I am very interested in exploring the emergent behaviour of simple systems. My [
 
 [Ruby Manor]: http://rubymanor.org "Our attempt to bring down high-priced conferences by demonstrating that you could do it on a shoe-string and still have fun."
 [LRUG]: http://lrug.org
-
-[Gem That]: http://lanyrd.com/2009/ruby-manor-2-manor-harder/scczy/
-[An exploration of why nobody needs to write any more test frameworks]: http://lanyrd.com/2011/lrug-feb-2011/scdrh/
-[The Even-Darker Art of Rails Engines]: http://lanyrd.com/2009/railsconf/scgkh/
-[Rails + Django]: http://lanyrd.com/2008/atmedia/scczpm/
-[rubyfools-oslo]: http://lanyrd.com/2008/ruby-fools-oslo/scczpg
-[rubyfools-copenhagen]: http://lanyrd.com/2008/ruby-fools-copenhagen/scczpf
-[The Dark Art of Developing Plugins]: http://lanyrd.com/2007/railsconf/scczmz
-[Extending Rails with Plugins]: http://lanyrd.com/2007/qcon-london/scczpd
-[Plugging into Rails]: http://lanyrd.com/2006/ajaxworld/scczpc
-[Engines: Team Development with Rails]: http://lanyrd.com/2006/canada-on-rails/scczpb
 
 [Ruby]: http://www.ruby-lang.org/en/ "I've been using Ruby since my PhD in 2002, and I dearly love it. Ruby is optimised for 'developer happiness', and it really shows."
 [PhD thesis]: http://assets.lazyatom.com/thesis.pdf "Here's my thesis, titled 'Designing Emergence' (6.12MB). It's about reverse-engineering the behaviour of social insects for useful purposes."

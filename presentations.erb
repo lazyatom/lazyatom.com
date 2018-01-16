@@ -1,0 +1,12 @@
+<ul>
+<% presentations.sort_by { |p| p['date'] }.each do |presentation| %>
+  <li>
+    <em><%= presentation['event'] %></em>
+    &mdash;
+    <strong><%= presentation['title'] %></strong>
+    <% if presentation['slides'] %><a href="<%= presentation['slides'] %>">slides</a><% end %>
+    <% if presentation['video'] %><a href="<%= presentation['video'] %>">video</a><% end %>
+    <% if presentation['transcript'] %><a href="<%= presentation['transcript'] %>">transcript</a><% end %>
+  </li>
+<% end %>
+</ul>

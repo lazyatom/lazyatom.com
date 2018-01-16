@@ -1,10 +1,13 @@
-rule ".html" => [".markdown", "layout.erb"] do |t|
+rule ".html" => [".markdown", 'presentations.yml', 'presentations.erb', "layout.erb"] do |t|
   require 'kramdown'
   require 'erb'
+  require 'yaml'
   markdown = Kramdown::Document.new(File.read(t.source))
   template = ERB.new(File.read("layout.erb"))
   content = markdown.to_html
-  html = template.result(binding)
+  presentations = YAML.load_file('presentations.yml')
+  presentation_html = ERB.new(File.read('presentations.erb')).result(binding)
+  html = template.result(binding).gsub('PRESENTATIONS_INSERT', presentation_html)
   puts "#{t.source} => #{t.name}"
   File.open(t.name, "w") { |f| f.write html }
 end
