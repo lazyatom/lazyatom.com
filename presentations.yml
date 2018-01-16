@@ -1,0 +1,139 @@
+---
+- event: Canada on Rails
+  date: 2006-04-14
+  title: 'Engines: Team Development with Rails'
+  slides: http://lazyatom.com/presentations/yvr06.pdf
+  synopsis: |-
+    Rails Engines provide a means to share common functionality across many projects, in a package that's easy to both update *and* override.
+
+    This presentation will explain the concepts behind Engines and demonstrate how they work within a Rails application. I will also discuss how Engines has dramatically enhanced collaboration within our own development team, and how such collaboration can be extended into the Rails community as a whole.
+
+- event: AjaxWorld 2006
+  date: 2006-10-03
+  title: Plugging into Rails
+  synopsis: |-
+    One of the most powerful aspects of Rails is the ease with which new functionality can be added, and existing behaviours modified to suit the needs of any project. Plugins are a controlled mechanism for working with such enhancements, making it easy to share them between your projects, and with other developers in the community.
+
+    In this session, you'll see how you can take advantage of plugins in your own applications, not only by installing existing plugins but more importantly by creating your own. By understanding the purpose of each file and folder a plugin can contain, it's possible to share almost anything.
+
+- event: QCon London 2007
+  date: 2007-03-16
+  title: Extending Rails with Plugins
+  slides: http://qconlondon.com/london-2007/file?path=/QCon2007/slides/JamesAdam_RailsPlugins.pdf
+  synopsis: |-
+    One of the most important and useful aspects of the Rails framework is it's ability to be extended using plugins. Thanks to the flexibility and power of Ruby, almost any aspect of Rails can be altered to suit the needs of a particular application.
+
+    This presentation will help give developers the boost that's often required to get up to speed developing plugins. We'll cover the hooks that Rails' plugin mechanism makes available, and how to put them to best use in practice with practical examples.
+
+    Once we've covered the groundwork, we'll start to look at more advanced programming techniques for sharing code (and other files) between Rails applications. With a few key programming techniques under our belt, we can use plugins to alter and enhance the Rails framework itself.
+
+- event: RailsConf 2007
+  date: 2007-05-19
+  title: The Dark Art of Developing Plugins
+  slides: url
+  video: url
+  coverage: array
+  synopsis: |-
+    Plugins are more than just shiny nuggets of code which rain down from the higher echelons of the Rails pantheon; they are loyal and useful servants that anyone can employ to help reuse code between applications. Without a little guidance, however, the process of figuring out just how to tame these beasts can be overwhelming.
+
+    This presentation will help give developers the boost that's often required to get up to speed developing plugins. We'll cover the hooks that Rails' plugin mechanism makes available, and how to put them to best use in practice.
+
+    Once we've covered the groundwork, we'll start to look at more advanced programming techniques for sharing code (and other files) between Rails applications. With a few key programming techniques under our belt, we can use plugins to alter and enhance the Rails framework itself, and become masters of Ruby's object model along the way.
+
+- event: Ruby Fools
+  date: 2008-04-03
+  title: The Dark Art of Developing Plugins
+  slides: http://jaoo.dk/dl/jaoo-ruby-oslo-2008/slides/RubyFools%20Presentation%20(Oslo%20revision).pdf
+  synopsis: |-
+    Plugins are more than just shiny nuggets of code which rain down from the higher echelons of the Rails pantheon; they are loyal and useful servants that anyone can employ to help reuse code between applications. Without a little guidance, however, the process of figuring out just how to tame these beasts can be overwhelming.
+
+    This presentation will help give developers the boost that's often required to get up to speed developing plugins. We'll cover the hooks that Rails' plugin mechanism makes available, and how to put them to best use in practice.
+
+    Once we've covered the groundwork, we'll start to look at more advanced programming techniques for sharing code (and other files) between Rails applications. With a few key programming techniques under our belt, we can use plugins to alter and enhance the Rails framework itself, and become masters of Ruby's object model along the way.
+
+- event: "@media 2008"
+  date: 2008-05-30
+  title: Rails + Django
+  synopsis: |-
+    In a rapidly growing, increasingly complex web world, the framework is firmly establishing itself as a powerful tool in the clever developer’s tool belt.
+
+    Renowned experts in their respective area give introductions to two of the more (and increasingly) popular frameworks: Ruby on Rails and Django.
+
+- event: Future of Web Apps 2008
+  date: 2008-10-08
+  title: Best practice techniques for Rails developers
+  synposis: |-
+    The workshop is aimed at Ruby on Rails developers who are looking to explore some of the best practices for developing a
+    Rails application. Nothing beats real life examples when demonstrating the most effective and efficient ways to develop with the Rails framework.
+
+    What you'll learn
+
+    As well as exploring best practices, we will look at
+
+    * Using OpenID in your web application
+    * Re-factoring your code to create a DRY-er codebase
+    * Building plugins
+    * A brief overview of Git & Capistrano
+    * A few other useful Rails techniques ...
+
+- event: RailsConf 2009
+  date: 2009-05-05
+  title: The Even Darker Art of Rails Engines
+  slides: http://assets.en.oreilly.com/1/event/24/The%20Even-Darker%20Art%20of%20Rails%20Engines%20Presentation.pdf
+  synposis: |-
+    When I started talking about the idea of ‘Rails Engines’ a few years ago, everyone thought I was crazy. Some people said it was stupid, or just plain evil. Despite that, the ability to write simple yet powerful plugins is baked into the core of Rails 2.3.
+
+    But heed the words of Uncle Ben: “With great power, comes great responsibility!”
+
+    In this session, we’ll discuss how to best take advantage of ‘engines’, in which situations engine plugins are appropriate and those where they aren’t, and how to avoid some of the common issues that can arrive when developing with engine-style plugins.
+
+    When we’re done, you’ll be in the best position to take advantage of this newly-sanctified functionality in your own projects.
+  coverage:
+    - https://twitter.com/pengwynn/status/1708263388
+
+- event: 'Ruby Manor 2: Manor Harder'
+  title: Gem That
+  date: 2009-12-12
+  slides: http://public.lazyatom.com/gem_that_with_notes.pdf
+  video: http://rubymanor.org/harder/videos/gem_that/
+  coverage:
+    - http://effectif.com/ruby/manor/gem-this
+    - https://twitter.com/eightbitraptor/status/6597993714
+
+- event: LRUG February 2011 Lightning Talks
+  date: 2011-02-07
+  title: An exploration of why nobody needs to write any more test frameworks
+  video: https://skillsmatter.com/skillscasts/1877-an-exploration-of-why-nobody-needs-to-write-any-more-test-frameworks
+
+- event: Austin on Rails
+  date: 2014-02-26
+  title: Deploying Rails with Docker
+  slides: https://speakerdeck.com/lazyatom/deploying-rails-with-docker
+  coverage:
+    - https://twitter.com/austinonrails/status/438487838292578304
+
+- event: RubyConf 2015
+  date: 2015-11
+  title: Why is nobody using Refinements?
+  slides: https://speakerdeck.com/lazyatom/why-is-nobody-using-refinements
+  video: https://www.youtube.com/watch?v=qXC9Gk4dCEw
+  synopsis: |-
+    Refinements have been a feature in Ruby for several years now, added as a more structured alternative to the "scourge" of monkey patching, but it seems like almost nobody is using them. My question is this: why not? Are they a bad idea? Are they broken? Or do we just not understand them?
+
+    Let's figure out once and for all what refinements are good for, and what their limitations might be, so that future generations can either use them for glory, or rightfully ignore them forevermore.
+  coverage:
+    - https://twitter.com/JEG2/status/666350515287031808
+    - https://twitter.com/JEG2/status/666353707978625024
+    - https://twitter.com/JEG2/status/666361403402416129
+    - https://twitter.com/joelchippindale/status/673805050737766400
+    - https://twitter.com/radlepunktde/status/807326936162848768
+    - https://twitter.com/tehviking/status/666348723174150144
+    - https://twitter.com/awenkhh/status/672516064081747968
+    - https://twitter.com/samaaron/status/684362700533665792
+    - https://twitter.com/mvgrootel/status/693519798710370304
+    - https://twitter.com/rchatley/status/684457619910717440
+    - https://twitter.com/shawnacscott/status/673897214096351233
+    - https://twitter.com/ugisozols/status/673485564956565504
+    - https://twitter.com/mxgrn/status/672585739641614337
+    - https://twitter.com/awenkhh/status/672514669790306305
+    - https://twitter.com/tehviking/status/666351064728272896
