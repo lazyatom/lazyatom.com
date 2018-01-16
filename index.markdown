@@ -58,7 +58,7 @@ Projects
 Conferences <span class="amp">&</span> Presentations
 ---------------------------
 
-I co-organise [Ruby Manor][].
+I co-organise [Ruby Manor][], and also help run [LRUG][].
 
 I've also spoken at a few Ruby and Rails conferences:
 
@@ -99,6 +99,8 @@ I am very interested in exploring the emergent behaviour of simple systems. My [
 [Gem This]: http://github.com/lazyatom/gem-this
 
 [Ruby Manor]: http://rubymanor.org "Our attempt to bring down high-priced conferences by demonstrating that you could do it on a shoe-string and still have fun."
+[LRUG]: http://lrug.org
+
 [Gem That]: http://lanyrd.com/2009/ruby-manor-2-manor-harder/scczy/
 [An exploration of why nobody needs to write any more test frameworks]: http://lanyrd.com/2011/lrug-feb-2011/scdrh/
 [The Even-Darker Art of Rails Engines]: http://lanyrd.com/2009/railsconf/scgkh/
