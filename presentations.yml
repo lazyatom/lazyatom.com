@@ -3,7 +3,7 @@
   date: 2006-04-14
   title: 'Engines: Team Development with Rails'
   lanyrd: http://lanyrd.com/2006/canada-on-rails/scczpb
-  slides: http://lazyatom.com/presentations/yvr06.pdf
+  slides: https://speakerdeck.com/lazyatom/engines-team-development-on-rails
   synopsis: |-
     Rails Engines provide a means to share common functionality across many projects, in a package that's easy to both update *and* override.
 
@@ -22,7 +22,7 @@
   date: 2007-03-16
   title: Extending Rails with Plugins
   lanyrd: http://lanyrd.com/2007/qcon-london/scczpd
-  slides: http://qconlondon.com/london-2007/file?path=/QCon2007/slides/JamesAdam_RailsPlugins.pdf
+  slides: https://speakerdeck.com/lazyatom/extending-rails-with-plugins-2007
   synopsis: |-
     One of the most important and useful aspects of the Rails framework is it's ability to be extended using plugins. Thanks to the flexibility and power of Ruby, almost any aspect of Rails can be altered to suit the needs of a particular application.
 
@@ -47,7 +47,7 @@
   lanyrd:
     - http://lanyrd.com/2008/ruby-fools-oslo/scczpg
     - http://lanyrd.com/2008/ruby-fools-copenhagen/scczpf
-  slides: http://jaoo.dk/dl/jaoo-ruby-oslo-2008/slides/RubyFools%20Presentation%20(Oslo%20revision).pdf
+  slides: https://speakerdeck.com/lazyatom/the-dark-art-of-rails-plugins
   synopsis: |-
     Plugins are more than just shiny nuggets of code which rain down from the higher echelons of the Rails pantheon; they are loyal and useful servants that anyone can employ to help reuse code between applications. Without a little guidance, however, the process of figuring out just how to tame these beasts can be overwhelming.
 
@@ -84,7 +84,7 @@
 - event: RailsConf 2009
   date: 2009-05-05
   title: The Even Darker Art of Rails Engines
-  slides: http://assets.en.oreilly.com/1/event/24/The%20Even-Darker%20Art%20of%20Rails%20Engines%20Presentation.pdf
+  slides: https://speakerdeck.com/lazyatom/the-even-darker-art-of-rails-engines
   lanyrd: http://lanyrd.com/2009/railsconf/scgkh/
   synposis: |-
     When I started talking about the idea of ‘Rails Engines’ a few years ago, everyone thought I was crazy. Some people said it was stupid, or just plain evil. Despite that, the ability to write simple yet powerful plugins is baked into the core of Rails 2.3.
@@ -100,7 +100,7 @@
 - event: 'Ruby Manor 2: Manor Harder'
   date: 2009-12-12
   title: Gem That
-  slides: http://public.lazyatom.com/gem_that_with_notes.pdf
+  slides: https://speakerdeck.com/lazyatom/gem-that-2009
   video: http://rubymanor.org/harder/videos/gem_that/
   lanyrd: http://lanyrd.com/2009/ruby-manor-2-manor-harder/scczy/
   coverage:
