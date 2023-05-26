@@ -1,5 +1,5 @@
 <ul>
-<% presentations.sort_by { |p| p['date'] }.each do |presentation| %>
+<% presentations.sort_by { |p| p['date'] }.reverse.each do |presentation| %>
   <li>
     <em><%= presentation['event'] %></em>
     &mdash;

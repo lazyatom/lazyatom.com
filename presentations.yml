@@ -67,7 +67,7 @@
 - event: Future of Web Apps 2008
   date: 2008-10-08
   title: Best practice techniques for Rails developers
-  synposis: |-
+  synopsis: |-
     The workshop is aimed at Ruby on Rails developers who are looking to explore some of the best practices for developing a
     Rails application. Nothing beats real life examples when demonstrating the most effective and efficient ways to develop with the Rails framework.
 
@@ -86,7 +86,7 @@
   title: The Even Darker Art of Rails Engines
   slides: https://speakerdeck.com/lazyatom/the-even-darker-art-of-rails-engines
   lanyrd: http://lanyrd.com/2009/railsconf/scgkh/
-  synposis: |-
+  synopsis: |-
     When I started talking about the idea of ‘Rails Engines’ a few years ago, everyone thought I was crazy. Some people said it was stupid, or just plain evil. Despite that, the ability to write simple yet powerful plugins is baked into the core of Rails 2.3.
 
     But heed the words of Uncle Ben: “With great power, comes great responsibility!”
@@ -151,3 +151,17 @@
     - https://twitter.com/mxgrn/status/672585739641614337
     - https://twitter.com/awenkhh/status/672514669790306305
     - https://twitter.com/tehviking/status/666351064728272896
+- event: RailsConf 2018
+  date: 2018-04-18
+  title: Here's to the crazy ones
+  slides: https://speakerdeck.com/lazyatom/heres-to-the-crazy-ones
+  video: https://www.youtube.com/watch?v=h3xe-Rf4A6k
+  transcript: https://interblah.net/heres-to-the-crazy-ones-railsconf-2018
+  synopsis: |-
+    Have you ever had a crazy idea that you were quietly convinced was great, but that everyone else thought was dumb? Well guess what: the future of Rails is depending on you.
+
+    I’d like rewind time by more than ten years, to tell you about one particular crazy idea that almost everyone hated, until it quietly became one of the core architectural components of Rails.
+
+    At the same time, we’ll meet the crazy ones, the misfits, the rebels and the trouble makers that ended up shaping Rails as we know it… and maybe, just maybe, we will realise that we can be one of them too.
+  coverage:
+    - https://twitter.com/honglilai/status/1088410314167799808
